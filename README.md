@@ -84,9 +84,13 @@ Step 2: Connect to your Virtual Machine
 <p>
   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%202d%20connect%20to%20the%20virtual%20machine.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+Step 3: Prepare the VM Desktop
 </p>
-
+<p>You will set up the environment before installing your files
+</p>
+<p>Action: </p>
+<p>+ Open edge and download  [osTicket-Installation-Files.zip](https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/edit?tab=t.0)(url)</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
