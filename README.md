@@ -66,12 +66,24 @@ Step 1: Create your resource group and virtual machine
 Step 2: Connect to your Virtual Machine
 </p>
 <p>
-You will log into the VM to install the prerequisites
+  You will log into the VM to install the prerequisites
 </p>
 <p>Action:</p>
-<p>+ </p>
-
+<p>+ Once your VM is deployed, open Remote Desktop Connection</p>
+<p>+ Enter the Public IP Address and Username for your VM</p>
 <p>
+  <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%202%20connect%20to%20the%20virtual%20machine.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>+ Enter your Password</p>
+  <p><img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%202b%20connect%20to%20the%20virtual%20machine.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  </p>
+  <p>+ Click "Yes" on the next prompt and wait for your VM to load</p>
+<p>
+  <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%202c%20connect%20to%20the%20virtual%20machine.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  </p> 
+<p>
+  <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%202d%20connect%20to%20the%20virtual%20machine.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  </p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
