@@ -84,6 +84,8 @@ Step 2: Connect to your Virtual Machine
 <p>
   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%202d%20connect%20to%20the%20virtual%20machine.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
+<br />
+
 <p>
 Step 3: Prepare the VM Desktop
 </p>
@@ -97,7 +99,32 @@ Step 3: Prepare the VM Desktop
   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%203b%20prepare%20the%20vm%20desktop.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   </p>
   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%203c%20prepare%20the%20vm%20desktop.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  </p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+Step 4: Install IIS with CGI Enabled
+</p>
+<p>+ Go to your start menu, open Control Panel, and under "Programs", click "Uninstall a Program"</p>
+</p>
+  <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/step%204b%20install%20iis.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>+ Click "Turn Windows features on or off"</p>
+<p>
+  <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%204c%20install%20iis.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>+ Enable Internet Information Services</p>
+<p>+ Expand Internet Information Services</p>
+<p>+ Expand World Wide Web Services</p>
+<p>+ Expand Application Development Features</p>
+<p>+ Enable CGI and click OK</p>
+  <p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%204d%20install%20iis.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%204e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%204f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
