@@ -172,3 +172,53 @@ Step 5: Install IIS Extensions
 <p>
    <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205l.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<p>
+Step 6: Install VC_redist.x86.exe (Microsoft Visual ++)
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%206.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%206b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 7: Install MySQL Server
+</p>
+<p> + Run mysql-5.5.62-win32.msi </p>
+<p> + Choose Typical Setup </p>
+<p> + After install, launch MySQL Configuration Wizard </p>
+<p> + Choose Standard Configuration </p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p> + Set username: root, password: root </p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207g.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207h.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207i.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
