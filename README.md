@@ -128,3 +128,47 @@ Step 4: Install IIS with CGI Enabled
    <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%204f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p>
+Step 5: Install IIS Extensions
+</p>
+<p>From osTicket-Installation-Files folder:</p>
+<p> + Install PHP Manager for IIS: PHPManagerForIIS_V1.5.0.msi</p>
+<p> + Install IIS Rewrite Module: rewrite_amd64_en-US.msi</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205g%20create%20file%20PHP.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205h%20create%20new%20file%20PHP.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> + Extract all PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205i%20extractall%20from%20php-7.3.8.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205j.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205k.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%205l.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
