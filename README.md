@@ -307,8 +307,37 @@ Step 11: Enable PHP Extensions
 </p>
 <p> + Go back to IIS, Sites, Default, osTicket</p>
 <p> + Double-click PHP Manager</p>
+<p> + Click “Enable or disable an extension”</p>
 <p> + Enable:</p>
-<p>   -php_imap.dll</p>
-<p>   -php_intl.dll</p>
-<p>   -php_opcache.dll</p>
+<p>php_imap.dll</p>
+<p>php_intl.dll</p>
+<p>php_opcache.dll</p>
 <p> + Refresh the osTicket site in your browser and observe the changes</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2011.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2011b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2011c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2011d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 12: Rename ost-sampleconfig.php
+</p>
+<p> + From C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php</p>
+<p> + To C:\inetpub\wwwroot\osTicket\include\ost-config.php</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2012.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2012b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<Step 13: 
