@@ -222,3 +222,48 @@ Step 7: Install MySQL Server
 <p>
    <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%207i.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<p>
+Step 8: Register PHP with IIS
+</p>
+<p> + Open IIS as Administrator</p>
+<p> + Click your computer name, then click PHP Manager</p>
+<p> + For Path, select your PHP file</p>
+<p> + Restart IIS (Stop/Start from within IIS Manager)</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208g.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208h.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%208i.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+  Step 9: Unzip and Move osTicket Files
+</p>
+<p>From osTicket-Installation-Files folder:</p>
+<p> + Unzip osTicket-v1.15.8.zip</p>
+<p> + Copy the upload folder into C:\inetpub\wwwroot</p>
+<p> + Rename upload to osTicket</p>
