@@ -264,6 +264,51 @@ Step 8: Register PHP with IIS
   Step 9: Unzip and Move osTicket Files
 </p>
 <p>From osTicket-Installation-Files folder:</p>
-<p> + Unzip osTicket-v1.15.8.zip</p>
+<p> + Extract All osTicket-v1.15.8.zip</p>
 <p> + Copy the upload folder into C:\inetpub\wwwroot</p>
 <p> + Rename upload to osTicket</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%209.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%209b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%209c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%209d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%209e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> + Open IIS, Stop and Start the server just like before</p>
+<br />
+
+<p>
+Step 10: Browse to osTicket
+</p>
+<p>In IIS:</p>
+<p> + Expand "Sites", expand "Default Website", and open "osTicket"</p>
+<p> + On the right, click “Browse *:80”</p>
+<p> + The osTicket Installer will open in your browser</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2010.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2010b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2010c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+Step 11: Enable PHP Extensions
+</p>
+<p> + Go back to IIS, Sites, Default, osTicket</p>
+<p> + Double-click PHP Manager</p>
+<p> + Enable:</p>
+<p>   -php_imap.dll</p>
+<p>   -php_intl.dll</p>
+<p>   -php_opcache.dll</p>
+<p> + Refresh the osTicket site in your browser and observe the changes</p>
