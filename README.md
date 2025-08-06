@@ -340,4 +340,10 @@ Step 12: Rename ost-sampleconfig.php
 </p>
 <br />
 
-<Step 13: 
+<p>
+Step 13: Assign Permissions: ost-config.php
+</p>
+<p> + Right-click  ost-config.php → Properties → Security, click "Advanced"</p>
+<p> + Disable inheritance</p>
+<p> + Remove all users</p>
+<p> + Add Everyone with Full Control</p>
