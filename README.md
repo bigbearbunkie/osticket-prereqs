@@ -347,3 +347,105 @@ Step 13: Assign Permissions: ost-config.php
 <p> + Disable inheritance</p>
 <p> + Remove all users</p>
 <p> + Add Everyone with Full Control</p>
+<p> + Apply changes</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013g.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013h.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013i.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013j.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2013k.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 14: Continue setting up osTicket in the browser
+</p>
+<p> + After applying the changes to permissions, click "Continue" at the bottom of the page</p>
+<p> + Name it "Helpdesk"</p>
+<p> + Give it a default email address (receives email from customers)</p>
+<p> + Fill out the Admin Info section </p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2014.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2014b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2014c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 15: Install HeidiSQL
+</p>
+<p> + Go to the “osTicket-Installation-Files” folder</p>
+<p> + Open Heidi SQL</p>
+<p> + Select "I accept the agreement" and click "Next" until it says "Install", click it</p>
+<p> + Create a new session, root/root</p>
+<p> + Connect to the session</p>
+<p> + Create a database called “osTicket”</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015e.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015f.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015g.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015h.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2015i.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Step 16: Continue setting up osTicket in the browser
+</p>
+<p> + MySQL Database: osTicket</p>
+<p> + MySQL Username: root</p>
+<p> + MySQL Password: root</p>
+<p> + Click “Install Now!”</p>
+<p>
+   <img src="https://github.com/bigbearbunkie/osticket-prereqs/blob/main/Step%2016.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
